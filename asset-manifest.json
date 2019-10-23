@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/themes/laapp-react/static/css/main.e8f372c0.chunk.css",
+    "main.css": "/themes/laapp-react/static/css/main.0b3d205a.chunk.css",
     "main.js": "/themes/laapp-react/static/js/main.a6d113da.chunk.js",
     "main.js.map": "/themes/laapp-react/static/js/main.a6d113da.chunk.js.map",
     "runtime~main.js": "/themes/laapp-react/static/js/runtime~main.9a4beccf.js",
@@ -9,10 +9,10 @@
     "static/js/2.1e58d030.chunk.js": "/themes/laapp-react/static/js/2.1e58d030.chunk.js",
     "static/js/2.1e58d030.chunk.js.map": "/themes/laapp-react/static/js/2.1e58d030.chunk.js.map",
     "index.html": "/themes/laapp-react/index.html",
-    "precache-manifest.8f2046b882ef90fed69a9650cf2820a7.js": "/themes/laapp-react/precache-manifest.8f2046b882ef90fed69a9650cf2820a7.js",
+    "precache-manifest.614392593dab7456f3586e7880424ac4.js": "/themes/laapp-react/precache-manifest.614392593dab7456f3586e7880424ac4.js",
     "service-worker.js": "/themes/laapp-react/service-worker.js",
     "static/css/2.9b6f9f84.chunk.css.map": "/themes/laapp-react/static/css/2.9b6f9f84.chunk.css.map",
-    "static/css/main.e8f372c0.chunk.css.map": "/themes/laapp-react/static/css/main.e8f372c0.chunk.css.map",
+    "static/css/main.0b3d205a.chunk.css.map": "/themes/laapp-react/static/css/main.0b3d205a.chunk.css.map",
     "static/media/1.png": "/themes/laapp-react/static/media/1.d1612d2b.png",
     "static/media/2.png": "/themes/laapp-react/static/media/2.b86967f5.png",
     "static/media/3.png": "/themes/laapp-react/static/media/3.f7dea1d8.png",
