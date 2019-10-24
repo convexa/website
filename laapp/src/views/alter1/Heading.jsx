@@ -41,7 +41,7 @@ const Heading = () => {
             </h1>
 
             <p className="lead">
-              Convexa enables the rapid creation of voice assistants that autonomously learn, deliver personalized actionable insights and increases productivity by eliminating manual tasks.
+              Convexa enables the rapid creation of voice assistants that autonomously learn, deliver personalized actionable insights, and increase productivity by eliminating manual tasks.
             </p>
 
             <Nav className="my-5" tag="nav">

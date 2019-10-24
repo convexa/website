@@ -20,13 +20,13 @@ const DefaultFooter = () => {
           <Col md="2">
             <h6 class="py-2 small">Follow us</h6>
             <nav className="nav justify-content-around">
-              <a href="https://twitter.com/convexai" className="btn btn-circle btn-sm brand-twitter">
+              <a href="https://twitter.com/convexai" className="btn btn-circle btn-sm brand-twitter" target="_blank" rel="noopener noreferrer">
                 <FontAwesomeIcon icon={["fab", "twitter"]} />
               </a>
-              <a href="https://www.linkedin.com/company/convexai" className="btn btn-circle btn-sm brand-linkedin">
+              <a href="https://www.linkedin.com/company/convexai" className="btn btn-circle btn-sm brand-linkedin" target="_blank" rel="noopener noreferrer">
                 <FontAwesomeIcon icon={["fab", "linkedin"]} />
               </a>
-              <a href="https://www.youtube.com/channel/UCkVw8D_G9vhlDzdvYL170OA" className="btn btn-circle btn-sm brand-youtube">
+              <a href="https://www.youtube.com/channel/UCkVw8D_G9vhlDzdvYL170OA" className="btn btn-circle btn-sm brand-youtube" target="_blank" rel="noopener noreferrer">
                 <FontAwesomeIcon icon={["fab", "youtube"]} />
               </a>
             </nav>
@@ -44,7 +44,7 @@ const DefaultFooter = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Convexa Inc.
+                Convexa Inc
               </a>
               . All Rights Reserved
             </p>
