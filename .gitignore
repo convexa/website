@@ -1,2 +1,5 @@
 .DS_Store
 .vscode
+precache-manifest.*
+laapp/build
+node_modules
