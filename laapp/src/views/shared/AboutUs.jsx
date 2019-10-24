@@ -9,7 +9,7 @@ const AboutUs = () => {
           <div className="section-heading text-center">
             <h2 className="heading-line">Contact our sales team</h2>
             <p className="bold">
-              Have a question? We are here to help.
+              Want to learn more about Convexa?
             </p>
             <a
               href="mailto:contact@convexa.ai" target="_blank" rel="noopener noreferrer"

@@ -41,7 +41,6 @@ const Faqs = () => {
       <Container>
         <div className="section-heading text-center">
           <h2 className="heading-line">Frequently Asked Questions</h2>
-          <p className="lead">Want to learn more about Convexa?</p>
         </div>
 
         <Row>
