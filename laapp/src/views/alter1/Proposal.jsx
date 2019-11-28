@@ -38,7 +38,7 @@ class Proposal extends React.Component {
             <Col md="6">
               <figure
                 className="mockup"
-                style={{ width: "920px", maxWidth: "100%" }}
+                style={{ width: "920px", maxWidth: "85%" }}
               >
                 <img
                   src={require("assets/img/screens/wmockup/1.png")}
