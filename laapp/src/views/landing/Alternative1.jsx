@@ -32,11 +32,11 @@ class Alternative1 extends React.Component {
           <FeaturesCard />
           <Proposal />
 
-          {/* Shared Components */}
-          <PowerfulFeatures />
           <MultipleDesignBlocks />
           {/* <FeaturesCantMiss /> */}
           <Integration />
+          {/* Shared Components */}
+          <PowerfulFeatures />
           <WhyUs />
           <Faqs />
           {/* <Subscribe /> */}

@@ -12,16 +12,16 @@ class FeaturesCard extends React.Component {
           "Enable faster and better decision making by merging relevant descriptive and predictive insights through Machine Learning models."
       },
       {
-        icon: "loop",
-        title: "Process Automation",
-        description:
-          "Boost productivity by automating business workflows and enabling interactions through natural language."
-      },
-      {
         icon: "phone",
         title: "Always with you",
         description:
           "A powerful mobile assistant in your pocket that informs you of important events based on time, location, or data changes."
+      },
+      {
+        icon: "loop",
+        title: "Process Automation",
+        description:
+          "Boost productivity by automating business workflows and enabling interactions through natural language."
       }
     ];
 

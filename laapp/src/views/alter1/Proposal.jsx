@@ -35,7 +35,7 @@ class Proposal extends React.Component {
 
         <Container className="bring-to-front">
           <Row className="align-items-center">
-            <Col md="6" className="order-md-last">
+            <Col md="6">
               <figure
                 className="mockup"
                 style={{ width: "920px", maxWidth: "100%" }}
@@ -47,18 +47,20 @@ class Proposal extends React.Component {
                 />
               </figure>
             </Col>
-
-            <Col md="6">
-              <h2 className="heading-line">Unleash the potential of natural language and conversational AI</h2>
+            <Col md="6" className="order-md-last">
+              <p className="text-alternate text-uppercase bold">
+                Contextual Actionable Insights
+              </p>
+              <h2 className="heading-line">Is more data science<br />leading to higher sales?</h2>
               <p className="lead">
-                Natural language will become a very important computer-human interface in the next decade.
+                You craft the right message to your customers, but is your sales force prepared to deliver those messages?
               </p>
-              <p className="lead">Convexa helps organizations develop a competitive advantage by capitalizing on these capabilities today.
+              <p className="lead">You create more sales tools and machine learning models, but your sales reps aren’t always taking advantage of them.
               </p>
-              <p className="lead">Meet Christina, a virtual assistant built for sales representatives, having a human-like conversation and providing useful insights.
+              <p className="lead">Meet Christina, <strong>a virtual assistant designed for sales representatives</strong> who need quick and easy access to insights and data science models.
               </p>
               <ModalVideo youtube={{ autoplay: "1", modestbranding: "1" }} allowFullScreen={true} channel='youtube' isOpen={this.state.isOpen} videoId='OXOFRynVJw8' onClose={() => this.setState({ isOpen: false })} />
-              <a href="#!" className="btn btn-outline-alternate more-link mt-0" onClick={this.openModal}>
+              <a href="#!" className="btn btn-alternate mr-2 mr-md-5" onClick={this.openModal}>
                 Watch demo
                 <FontAwesomeIcon
                   icon={["fas", "long-arrow-alt-right"]}

@@ -56,17 +56,17 @@ const Integration = () => {
           <Col md="6">
             <div className="section-heading">
               <p className="text-alternate text-uppercase bold">
-                Save time by leveraging integrations
+                Robotic Process Automation
               </p>
-              <h2 className="heading-line">A unified experience</h2>
+              <h2 className="heading-line">Do sales reps spent too much time on operational tasks?</h2>
               <p className="lead">
-                Interact with your assistant using your preferred communication tools with Slack, Skype and Microsoft Teams supported out of the box.
+                Are you missing out on improving your customer master data by not leveraging first hand knowledge from your sales force?
+              </p>
+              <p className="lead">
+              Simplify and automate administrative activities that keep your sales force from interacting with your customers.
               </p>
               <p className="lead">
                 Connect to your preferred cloud services like; Salesforce, Veeva, Quip, Sharepoint, Box, GDrive, PowerBI, Tableau and more.
-              </p>
-              <p className="lead">
-                Manage user authentication using cloud native services including Okta, Azure AD, and Auth0.
               </p>
             </div>
           </Col>

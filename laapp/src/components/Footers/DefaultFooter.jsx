@@ -18,7 +18,7 @@ const DefaultFooter = () => {
           </Col>
 
           <Col md="2">
-            <h6 class="py-2 small">Follow us</h6>
+            <h6 className="py-2 small">Follow us</h6>
             <nav className="nav justify-content-around">
               <a href="https://twitter.com/convexai" className="btn btn-circle btn-sm brand-twitter" target="_blank" rel="noopener noreferrer">
                 <FontAwesomeIcon icon={["fab", "twitter"]} />

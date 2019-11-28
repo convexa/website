@@ -7,6 +7,16 @@
     transform: rotateY(10deg) rotateZ(7deg) scale(1.25);
   }
 
+  .stickies div {
+    background-color: $white;
+    box-shadow: 0px 3px 5px $black;
+    padding: 20px;
+    color: black;
+    float: left;
+    margin: 10px;
+    font-weight: bold;
+  }
+
   @media (max-width: 767.98px) {
     .iphone {
       transform: rotateY(10deg) rotateZ(7deg) scale(1);
