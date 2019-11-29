@@ -51,7 +51,7 @@ class Proposal extends React.Component {
               <p className="text-alternate text-uppercase bold">
                 Contextual Actionable Insights
               </p>
-              <h2 className="heading-line">Is more data science<br />leading to higher sales?</h2>
+              <h2 className="heading-line">Are more sales tools<br />leading to higher sales?</h2>
               <p className="lead">
                 You craft the right message to your customers, but is your sales force prepared to deliver those messages?
               </p>

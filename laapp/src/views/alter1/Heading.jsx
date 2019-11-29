@@ -61,7 +61,7 @@ const Heading = () => {
             <Col md="7">
               <p className="text-uppercase bold">Increase your Sales Force Effectiveness with a </p>
               <h1 className="text-contrast display-4 extra-bold display-md-3">
-                Virtual Assistant.<br /><span className="light">Give your team more time to sell.</span>
+                Virtual Assistant<br /><span className="light">Give your team more time to sell</span>
               </h1>
 
               <p className="lead">

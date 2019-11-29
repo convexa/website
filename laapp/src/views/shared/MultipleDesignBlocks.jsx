@@ -59,18 +59,21 @@ const MultipleDesignBlocks = () => {
       <Container>
         <Row className="gap-y align-items-center">
           <Col md="6">
-            <div className="section-heading">
+            <div>
               <p className="text-alternate text-uppercase bold">
                 Integrated Notifications
               </p>
               <h2 className="heading-line">
-                Are important messages reaching your sales force?
+                Are important messages reaching your sales force?
               </h2>
               <p className="lead">
-                Deliver automated messages to individuals or groups based on identified data anomalies and trends, time, or location.  Manually trigger and schedule important messages to the field.
+                Deliver automated messages to individuals or groups based on identified data anomalies and trends, time, or location.
               </p>
               <p className="lead">
-              <strong>Send the right notification, to the right person, at the right time</strong>.
+                Keep your team aligned by sending personalized messages from your home office right to their phones.
+              </p>
+              <p className="lead">
+              <strong>Deliver the right notification, to the right person, at the right time</strong>.
               </p>
             </div>
 
