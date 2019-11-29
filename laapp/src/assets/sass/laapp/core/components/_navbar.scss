@@ -16,6 +16,11 @@ main {
             width: 100%;
             flex-direction: row;
             justify-content: space-between;
+
+            .main-logo {
+                width: 38px;
+                overflow: hidden;
+            }
         }
 
         .dropdown-item {

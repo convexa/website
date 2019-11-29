@@ -65,7 +65,7 @@ class DefaultNavbar extends React.Component {
             <span className="icon-bar" />
           </button>
 
-          <NavbarBrand className="mr-lg-5" to="/" tag={Link}>
+          <a className="mr-lg-5 main-logo" href="#home" title="Convexa">
             {useOnlyDarkLogo ? (
               <img
                 alt="..."
@@ -76,17 +76,17 @@ class DefaultNavbar extends React.Component {
               <>
                 <img
                   src={require("assets/img/logo.png")}
-                  alt="Laapp"
+                  alt="Convexa"
                   className="logo logo-sticky d-block d-md-none"
                 />
                 <img
                   src={require("assets/img/logo-light.png")}
-                  alt="Laapp"
+                  alt="Convexa"
                   className="logo d-none d-md-block"
                 />
               </>
             )}
-          </NavbarBrand>
+          </a>
 
           <div className="collapse navbar-collapse">
             <div className="sidebar-brand">

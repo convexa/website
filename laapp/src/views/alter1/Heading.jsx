@@ -41,11 +41,13 @@ const Heading = () => {
           <Row>
             <Col md="7">
               <h1 className="text-contrast display-4 extra-bold display-md-3">
-                Your Sales Force<br />is expensive.<br /><span className="light">Are you maximizing that investment?</span>
+                Your Sales Force<br />is expensive<br /><span className="light">Are you maximizing that investment?</span>
               </h1>
-
               <p className="lead">
-                Sales reps are drowning in information and having a hard time <br />finding the insights they need to properly communicate.
+                Sales reps invest 65% of their time preparing materials and just 35% selling.
+              </p>
+              <p className="lead">
+                They are drowning in information and having a hard time <br />finding the insights they need to properly communicate.
               </p>
             </Col>
 
@@ -59,7 +61,7 @@ const Heading = () => {
             <Col md="7">
               <p className="text-uppercase bold">Increase your Sales Force Effectiveness with a </p>
               <h1 className="text-contrast display-4 extra-bold display-md-3">
-                Virtual Assistant<br /><span className="light">to start achieving ambitious goals.</span>
+                Virtual Assistant.<br /><span className="light">Give your team more time to sell.</span>
               </h1>
 
               <p className="lead">
