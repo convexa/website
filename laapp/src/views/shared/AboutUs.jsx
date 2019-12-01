@@ -15,7 +15,7 @@ const AboutUs = () => {
               href="mailto:contact@convexa.ai" target="_blank" rel="noopener noreferrer"
               className="btn btn-rounded btn-alternate mt-5"
             >
-              Contact us
+              Request a demo
             </a>
           </div>
         </div>

@@ -25,8 +25,35 @@
     h1 {
       font-size: 3rem !important;
     }
+
+    .BrainhubCarousel__arrows {
+      display: none;
+    }
+
+    .BrainhubCarousel__dots {
+      top: 750px !important;
+    }
+
+    .container .row > div:nth-child(2) {
+      display: none;
+    } 
   }
 
+  .BrainhubCarousel__dots {
+    position: absolute;
+    left: calc(50% - 30px);
+    top: 800px;
+  }
+
+  .BrainhubCarousel__arrows {
+    background: transparent;
+  }
+
+  .BrainhubCarousel__dots .BrainhubCarousel__dot:before {
+    width: 10px;
+    height: 10px;
+    background-color: white;
+  }
 
   &:before {
     content: "";

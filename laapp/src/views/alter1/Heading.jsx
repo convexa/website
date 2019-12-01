@@ -36,7 +36,7 @@ const Heading = () => {
           </Fade>
         ))}
       </div>
-      <Carousel autoPlay={15000} animationSpeed={1500}>
+      <Carousel arrows dots autoPlay={17000} animationSpeed={1000}>
         <Container className="container">
           <Row>
             <Col md="7">
@@ -47,7 +47,7 @@ const Heading = () => {
                 Sales reps invest 65% of their time preparing materials and just 35% selling.
               </p>
               <p className="lead">
-                They are drowning in information and having a hard time <br />finding the insights they need to properly communicate.
+                They are drowning in information and having a hard time finding the insights they need to properly communicate.
               </p>
             </Col>
 
@@ -65,7 +65,7 @@ const Heading = () => {
               </h1>
 
               <p className="lead">
-                We create voice assistants that deliver contextual <br />actionable insights and reduce operational tasks.
+                We create voice assistants that deliver contextual actionable insights and reduce operational tasks.
               </p>
 
               <Nav className="my-5" tag="nav">
@@ -73,7 +73,7 @@ const Heading = () => {
                   href="mailto:contact@convexa.ai" target="_blank" rel="noopener noreferrer"
                   className="btn btn-rounded btn-alternate mr-2 mr-md-5"
                 >
-                  Contact us
+                  Request a demo
                   <FontAwesomeIcon
                     icon={["fas", "long-arrow-alt-right"]}
                     className="ml-2"
