@@ -43,7 +43,7 @@ class Proposal extends React.Component {
                 <img
                   src={require("assets/img/screens/wmockup/1.png")}
                   className="img-responsive"
-                  alt="..."
+                  alt="Christina, the virtual assistant designed for sales reps"
                 />
               </figure>
             </Col>

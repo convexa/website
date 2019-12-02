@@ -84,7 +84,7 @@ const WhyUs = () => {
               <div className="browser absolute shadow-lg">
                 <img
                   src={require("assets/img/screens/tablet/1.png")}
-                  alt="..."
+                  alt="Convexa mobile screenshot"
                 />
               </div>
 
@@ -92,7 +92,7 @@ const WhyUs = () => {
                 <div className="screen">
                   <img
                     src={require("assets/img/screens/app/1.png")}
-                    alt="..."
+                    alt="Convexa desktop screenshot"
                   />
                 </div>
 

@@ -12,7 +12,7 @@ const DefaultFooter = () => {
           <Col md="4" className="mr-auto">
             <img
               src={require("assets/img/logo-light.png")}
-              alt=""
+              alt="Convexa"
               className="logo"
             />
           </Col>

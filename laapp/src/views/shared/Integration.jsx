@@ -31,7 +31,7 @@ const renderBubbles = () => {
       >
         <img
           src={require(`assets/img/demo/header/${bubble.icon}.svg`)}
-          alt=""
+          alt="Integrations"
           className="img-responsive"
         />
         <span className="badge badge-contrast shadow-box">{bubble.name}</span>

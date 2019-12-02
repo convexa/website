@@ -68,7 +68,7 @@ class DefaultNavbar extends React.Component {
           <a className="mr-lg-5 main-logo" href="#home" title="Convexa">
             {useOnlyDarkLogo ? (
               <img
-                alt="..."
+                alt="Convexa"
                 src={require("assets/img/logo.png")}
                 className="logo logo-sticky"
               />
@@ -93,7 +93,7 @@ class DefaultNavbar extends React.Component {
               <Link to="/">
                 <img
                   src={require("assets/img/logo.png")}
-                  alt="Laapp Template"
+                  alt="Convexa"
                   className="logo"
                 />
               </Link>
