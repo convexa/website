@@ -83,7 +83,7 @@ const Heading = () => {
             </Col>
 
             <Col md="5">
-              <img src={require("assets/img/screens/app/heading.png")} alt="convexa capture" height="650" style={{marginTop:-50}} />
+              <img src={require("assets/img/screens/app/heading.png")} alt="convexa capture" height="650" style={{marginTop:-50, float:"right"}} />
               {/* <div className="iphone front mx-auto">
                 <div className="screen shadow-box">
                   <img src={require("assets/img/screens/app/9.png")} alt="..." />
