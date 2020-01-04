@@ -59,7 +59,7 @@ class Proposal extends React.Component {
               </p>
               <p className="lead">Meet Christina, <strong>a virtual assistant designed for sales representatives</strong> who need quick and easy access to insights and data science models.
               </p>
-              <ModalVideo youtube={{ autoplay: "1", modestbranding: "1" }} allowFullScreen={true} channel='youtube' isOpen={this.state.isOpen} videoId='OXOFRynVJw8' onClose={() => this.setState({ isOpen: false })} />
+              <ModalVideo youtube={{ autoplay: "1", modestbranding: "1" }} allowFullScreen={true} channel='youtube' isOpen={this.state.isOpen} videoId='UOYVH1k1BWU' onClose={() => this.setState({ isOpen: false })} />
               <a href="#!" className="btn btn-alternate mr-2 mr-md-5" onClick={this.openModal}>
                 Watch demo
                 <FontAwesomeIcon
