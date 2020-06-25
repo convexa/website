@@ -58,7 +58,7 @@ const Integration = () => {
               <p className="text-alternate text-uppercase bold">
                 Robotic Process Automation
               </p>
-              <h2 className="heading-line">Do sales reps spent too much time on operational tasks?</h2>
+              <h2 className="heading-line">Do sales reps spend too much time on operational tasks?</h2>
               <p className="lead">
                 Administrative activities keep your sales force from interacting with your customers.
               </p>

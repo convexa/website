@@ -41,7 +41,7 @@ const Heading = () => {
           <Row>
             <Col md="7">
               <h1 className="text-contrast display-4 extra-bold display-md-3">
-                Your Sales Force<br />is expensive<br /><span className="light">Are you maximizing that investment?</span>
+                Your Sales Team<br />is expensive<br /><span className="light">Are you maximizing that investment?</span>
               </h1>
               <p className="lead">
                 Sales reps invest 65% of their time preparing materials and just 35% selling.
